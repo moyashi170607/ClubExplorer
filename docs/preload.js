@@ -1,0 +1,6 @@
+new Image().src = "img/chara/normal_wave.webp"
+new Image().src = "img/chara/normal_question.webp"
+new Image().src = "img/chara/normal_naruhodo.webp"
+new Image().src = "img/UI/oucrc2.png"
+new Image().src = "img/UI/recommendation.png" 
+new Image().src = "img/chara/normal_jump.webp"
